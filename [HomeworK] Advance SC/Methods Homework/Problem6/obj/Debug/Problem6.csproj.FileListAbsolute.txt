@@ -1,6 +1,0 @@
-D:\Visual studio 2013\Projects\Methods Homework\Problem6\bin\Debug\Problem6.exe.config
-D:\Visual studio 2013\Projects\Methods Homework\Problem6\bin\Debug\Problem6.exe
-D:\Visual studio 2013\Projects\Methods Homework\Problem6\bin\Debug\Problem6.pdb
-D:\Visual studio 2013\Projects\Methods Homework\Problem6\obj\Debug\Problem6.csprojResolveAssemblyReference.cache
-D:\Visual studio 2013\Projects\Methods Homework\Problem6\obj\Debug\Problem6.exe
-D:\Visual studio 2013\Projects\Methods Homework\Problem6\obj\Debug\Problem6.pdb

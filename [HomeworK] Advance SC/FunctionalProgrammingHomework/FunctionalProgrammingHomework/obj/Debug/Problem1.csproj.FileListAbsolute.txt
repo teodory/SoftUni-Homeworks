@@ -1,6 +1,0 @@
-D:\Visual studio 2013\Projects\FunctionalProgrammingHomework\FunctionalProgrammingHomework\bin\Debug\FunctionalProgrammingHomework.exe.config
-D:\Visual studio 2013\Projects\FunctionalProgrammingHomework\FunctionalProgrammingHomework\bin\Debug\FunctionalProgrammingHomework.exe
-D:\Visual studio 2013\Projects\FunctionalProgrammingHomework\FunctionalProgrammingHomework\bin\Debug\FunctionalProgrammingHomework.pdb
-D:\Visual studio 2013\Projects\FunctionalProgrammingHomework\FunctionalProgrammingHomework\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
-D:\Visual studio 2013\Projects\FunctionalProgrammingHomework\FunctionalProgrammingHomework\obj\Debug\FunctionalProgrammingHomework.exe
-D:\Visual studio 2013\Projects\FunctionalProgrammingHomework\FunctionalProgrammingHomework\obj\Debug\FunctionalProgrammingHomework.pdb
