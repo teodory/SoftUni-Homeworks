@@ -1,0 +1,6 @@
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_03_Paths\bin\Debug\_03_Paths.exe.config
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_03_Paths\bin\Debug\_03_Paths.exe
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_03_Paths\bin\Debug\_03_Paths.pdb
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_03_Paths\obj\Debug\_03_Paths.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_03_Paths\obj\Debug\_03_Paths.exe
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_03_Paths\obj\Debug\_03_Paths.pdb

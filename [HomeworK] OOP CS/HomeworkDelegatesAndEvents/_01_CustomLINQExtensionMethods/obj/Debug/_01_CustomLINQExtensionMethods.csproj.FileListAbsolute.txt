@@ -1,0 +1,6 @@
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\HomeworkDelegatesAndEvents\_01_CustomLINQExtensionMethods\bin\Debug\_01_CustomLINQExtensionMethods.exe.config
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\HomeworkDelegatesAndEvents\_01_CustomLINQExtensionMethods\obj\Debug\_01_CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\HomeworkDelegatesAndEvents\_01_CustomLINQExtensionMethods\bin\Debug\_01_CustomLINQExtensionMethods.exe
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\HomeworkDelegatesAndEvents\_01_CustomLINQExtensionMethods\bin\Debug\_01_CustomLINQExtensionMethods.pdb
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\HomeworkDelegatesAndEvents\_01_CustomLINQExtensionMethods\obj\Debug\_01_CustomLINQExtensionMethods.exe
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\HomeworkDelegatesAndEvents\_01_CustomLINQExtensionMethods\obj\Debug\_01_CustomLINQExtensionMethods.pdb

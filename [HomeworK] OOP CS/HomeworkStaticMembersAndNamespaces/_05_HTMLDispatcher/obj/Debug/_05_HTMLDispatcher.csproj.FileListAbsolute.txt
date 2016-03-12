@@ -1,0 +1,6 @@
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_05_HTMLDispatcher\bin\Debug\_05_HTMLDispatcher.exe.config
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_05_HTMLDispatcher\bin\Debug\_05_HTMLDispatcher.exe
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_05_HTMLDispatcher\bin\Debug\_05_HTMLDispatcher.pdb
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_05_HTMLDispatcher\obj\Debug\_05_HTMLDispatcher.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_05_HTMLDispatcher\obj\Debug\_05_HTMLDispatcher.exe
+D:\Visual studio 2013\Projects\HomeworkStaticMembersAndNamespaces\_05_HTMLDispatcher\obj\Debug\_05_HTMLDispatcher.pdb

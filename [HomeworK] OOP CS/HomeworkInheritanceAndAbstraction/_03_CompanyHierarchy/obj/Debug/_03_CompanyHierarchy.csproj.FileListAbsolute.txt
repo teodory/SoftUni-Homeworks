@@ -1,0 +1,10 @@
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\obj\Debug\_03_CompanyHierarchy.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\bin\Debug\_03_CompanyHierarchy.exe.config
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\bin\Debug\_03_CompanyHierarchy.exe
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\bin\Debug\_03_CompanyHierarchy.pdb
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\bin\Debug\_01_HumanStudentWorker.exe
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\bin\Debug\_02_Animals.exe
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\bin\Debug\_01_HumanStudentWorker.pdb
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\bin\Debug\_02_Animals.pdb
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\obj\Debug\_03_CompanyHierarchy.exe
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_03_CompanyHierarchy\obj\Debug\_03_CompanyHierarchy.pdb

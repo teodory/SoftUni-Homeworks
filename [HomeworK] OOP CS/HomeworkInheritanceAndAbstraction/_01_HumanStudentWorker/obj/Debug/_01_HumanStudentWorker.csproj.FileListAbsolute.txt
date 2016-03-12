@@ -1,0 +1,5 @@
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_01_HumanStudentWorker\bin\Debug\_01_HumanStudentWorker.exe.config
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_01_HumanStudentWorker\bin\Debug\_01_HumanStudentWorker.exe
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_01_HumanStudentWorker\bin\Debug\_01_HumanStudentWorker.pdb
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_01_HumanStudentWorker\obj\Debug\_01_HumanStudentWorker.exe
+D:\Visual studio 2013\Projects\HomeworkInheritanceAndAbstraction\_01_HumanStudentWorker\obj\Debug\_01_HumanStudentWorker.pdb

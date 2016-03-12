@@ -1,0 +1,3 @@
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\Predicates\HomeworkDelegatesAndEvents\bin\Debug\HomeworkDelegatesAndEvents.exe.config
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\Predicates\HomeworkDelegatesAndEvents\obj\Debug\HomeworkDelegatesAndEvents.exe
+D:\Visual studio 2013\Projects\[HomeworK] OOP CS\Predicates\HomeworkDelegatesAndEvents\obj\Debug\HomeworkDelegatesAndEvents.pdb
