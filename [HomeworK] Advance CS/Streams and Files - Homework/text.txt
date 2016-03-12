@@ -1,0 +1,10 @@
+Regular expressions, or regex, is a symbolic language that describe how to identify 
+a sequence of integers (or, more practically, characters) as matching a required set. 
+Compared to mathematics regular expressions are pathetically tiny. There's only a few 
+symbols to learn, and they have exact specific meanings. This makes them easy to learn, 
+given that you actually put in the time to learn to read and write them.
+
+Effectively a regular expression is the algebra equation to a programming language's 
+word problem. With them you can describe things that would take mountains of code if 
+you were to write it by hand. This is why they exist, but being symbolic languages most 
+people simply hate them because most people are never taught how to learn a symbolic language.

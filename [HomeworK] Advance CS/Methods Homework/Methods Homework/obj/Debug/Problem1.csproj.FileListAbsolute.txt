@@ -1,0 +1,6 @@
+D:\Visual studio 2013\Projects\Methods Homework\Methods Homework\bin\Debug\Methods Homework.exe.config
+D:\Visual studio 2013\Projects\Methods Homework\Methods Homework\bin\Debug\Methods Homework.exe
+D:\Visual studio 2013\Projects\Methods Homework\Methods Homework\bin\Debug\Methods Homework.pdb
+D:\Visual studio 2013\Projects\Methods Homework\Methods Homework\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+D:\Visual studio 2013\Projects\Methods Homework\Methods Homework\obj\Debug\Methods Homework.exe
+D:\Visual studio 2013\Projects\Methods Homework\Methods Homework\obj\Debug\Methods Homework.pdb
